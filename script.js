@@ -16,7 +16,7 @@ const tourPackages = [
     description: "Classic Nilgiri sightseeing with gardens, viewpoints, and lake time.",
     duration: "1 Day",
     group: "Up to 7",
-    image: "https://images.unsplash.com/photo-1662896205016-4f6c76ff7a8e?auto=format&fit=crop&w=900&q=80"
+    image: "ooty-trip.jpg"
   },
   {
     name: "Coonoor Tour",
