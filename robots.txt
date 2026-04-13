@@ -1,0 +1,6 @@
+# Ooty Travel Solution — allow indexing of public pages
+User-agent: *
+Allow: /
+
+# Replace with your live domain when deployed
+Sitemap: https://www.ootytravelsolution.com/sitemap.xml

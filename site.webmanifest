@@ -1,0 +1,17 @@
+{
+  "name": "Ooty Travel Solution",
+  "short_name": "Ooty Travel",
+  "description": "Cab tours and sightseeing in Ooty, Coonoor, Pykara & Avalanche — pickup from Coimbatore, Bangalore & Mysore.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#eef6ff",
+  "theme_color": "#0b6cf2",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
