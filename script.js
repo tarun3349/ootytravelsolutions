@@ -23,7 +23,7 @@ const tourPackages = [
     description: "Tea estates, viewpoints, and the charm of the quieter hill station.",
     duration: "1 Day",
     group: "Up to 7",
-    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80"
+    image: "image.png"
   },
   {
     name: "Pykara Tour",
